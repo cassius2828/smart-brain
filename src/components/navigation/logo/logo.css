@@ -1,0 +1,21 @@
+.Tilt {
+     background: rgb(63, 94, 251);
+  background: linear-gradient(
+    135deg,
+    rgba(63, 94, 251, 1) 25%,
+    rgba(252, 70, 107, 1) 100%
+  );
+  padding: 1rem;
+}
+
+.Tilt {
+    border-radius: 50%;
+}
+
+#brain-logo {
+ margin: auto;
+  color: whitesmoke;
+ width: 8rem;
+ height: 8rem;
+
+}

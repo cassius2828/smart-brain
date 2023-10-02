@@ -1,0 +1,23 @@
+.bounding-box {
+    position: absolute;
+    z-index: 1;
+    box-shadow: 0 0 0 3px rgb(108, 221, 255) inset;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    cursor: pointer;
+}
+
+.bounding-box:hover {
+    box-shadow: 0 0 0 3px rgb(255, 230, 0) inset;
+    transition: .2s all ease-out;
+
+}
+
+img {
+
+}
